@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolishNotationCalculator", "PolishNotationCalculator.csproj", "{72F715AF-2344-4F5B-AEF6-5E0FE48EB37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F715AF-2344-4F5B-AEF6-5E0FE48EB37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F715AF-2344-4F5B-AEF6-5E0FE48EB37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F715AF-2344-4F5B-AEF6-5E0FE48EB37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F715AF-2344-4F5B-AEF6-5E0FE48EB37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B8F3F06-D833-4E82-AC46-8A3435162548}
+	EndGlobalSection
+EndGlobal
